@@ -1,2 +1,2 @@
 # firstPythonProject
- A full-stack twitter clone that allowed me to learn the basics of Python
+ A full-stack twitter clone that allows me to learn the basics of Python
